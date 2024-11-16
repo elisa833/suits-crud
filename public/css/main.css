@@ -1,0 +1,24 @@
+
+body{
+    background: url("../img/supermercado.jpg") fixed no-repeat 0 0;
+	background-size: cover;
+	background-position: center center;
+    color: #fff;
+}
+
+.fondo{
+    background-color: #54beec22;
+    border-radius: 15px;
+    border: 2px #024956 solid;
+}
+
+btn-link{
+    text-decoration: none;
+    color: #fff;
+}
+
+.bg-card{
+    background-color: rgba(9, 136, 182, 0.7);
+    border-radius: 10px;
+    border: 2px #010c0e solid;
+}
